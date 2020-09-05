@@ -17,8 +17,8 @@
   - [Eleus](https://github.com/eleus-apon/Learning_PostgreSQL)
   - [arasel mir](https://github.com/araselmir/PostgreSQL)
   - [Nissan Devnath](https://github.com/nissan997/PostgreSQL-Cheat-Sheet)
-  - [Foyez Ahammed Sharif Plaban](https://github.com/mechano59/PostgreSQL/)
   - [Sumaiya Antara](https://github.com/sumaiya-antara/PostgreSQL)
+  - [Foyez Ahammed Sharif Plaban](https://github.com/mechano59/PostgreSQL/)
 
 
 ### Redis Documentation
